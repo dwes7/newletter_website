@@ -1,5 +1,5 @@
 # newletter_website
-This is my personal newsletter website project. There are lots of examples of these on the web, and this is my personal implementation using tool that I currently learning about. The site will request users to input their name and mailing info, and post changes to a Mailchimp account using Mailchimp's API. I'll try to make the website, somewhat generic and include some instructions on how to set it up for your own purposes.
+This is my personal newsletter website project. There are lots of examples of these on the web, and this is my personal implementation using tool that I currently learning about. The site will request users to input their name and mailing info, and post changes to a [Mailchimp](https://mailchimp.com/) account using [Mailchimp's API](https://mailchimp.com/developer/). I'll try to make the website, somewhat generic and include some instructions on how to set it up for your own purposes.
 
 # Tools Used
 - Javascript
