@@ -10,5 +10,5 @@ This is my personal newsletter website project. There are lots of examples of th
 A lot of these tools are new to me so if there are any tips on how to better utilize them or simplify the work, please feel free to comment. For reference, how to build this project is taught through the Udemy course [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 ## My plan
-My plan is to utilize this simple newsletter sign up to my personal website that I have yet to create. So stay tuned... 
+My plan is to utilize this simple newsletter sign in my personal website that I have yet to create. So stay tuned... 
 
