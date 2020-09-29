@@ -9,6 +9,38 @@ This is my personal newsletter website project. There are lots of examples of th
 
 A lot of these tools are new to me so if there are any tips on how to better utilize them or simplify the work, please feel free to comment. For reference, how to build this project is taught through the Udemy course [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
+# Setup
+## Clone the repo onto your machine
+```
+# make the directory
+mkdir my_newsletter
+cd my_newsletter
+
+# clone the repository
+git clone https://github.com/dwes7/newletter_website.git .
+
+# set up npm and install tools
+npm init
+npm install express request body-parser
+```
+
+## Set up your private data
+```
+# Create the private directory to store your data
+mkdir private
+touch private.json
+
+```
+
+Edit the private.json file with the information from your Mailchimp account
+```
+{
+  "apiKey": "your api key",
+  "listId": "your list id"
+}
+```
+
+
 ## My plan
 My plan is to utilize this simple newsletter sign in my personal website that I have yet to create. So stay tuned... 
 
