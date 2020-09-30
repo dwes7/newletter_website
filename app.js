@@ -82,7 +82,8 @@ app.post("/failure", function(req, res){
   res.sendFile(__dirname +"/signup.html");
 });
 // run the listening server
-var port = 3000;
-app.listen(port, function(){
+var port = process.env.PORT;
+var localPort = 3000;
+app.listen(port || localPort, function(){
     console.log("Server is listening on port " + port);
 });
