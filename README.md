@@ -40,6 +40,8 @@ Edit the private.json file with the information from your Mailchimp account
 }
 ```
 
+# Deploy in Heroku
+[Heroku](https://www.heroku.com/) is nice because it allows users to deploy at least 5 projects on their servers for free. After you've set up your own personal account, you can follow the instructions [here](https://devcenter.heroku.com/articles/getting-started-with-nodejs) to deploy your website. Heroku will come up with a funny url that doesn't make any sense that you can go to visit your live newsletter webapp. In order to change the url you need to set up your project in Heroku with a domain name that you own.
 
 ## My plan
 My plan is to utilize this simple newsletter sign in my personal website that I have yet to create. So stay tuned... 
